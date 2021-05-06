@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Make Money ?
 
-You can use the [editor on GitHub](https://github.com/twizzu/Money/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenue sur une Page pouvant vous permettre de faire de l'argent
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
