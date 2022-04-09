@@ -3,6 +3,10 @@
 Merci de vouloir utilisé notre OS personalisé. Notre OS a été totalement conçu pour le gaming.
 Il a été entièrement réalisé par Palm sur la base du système d'exploitation Windows.
 
+https://twitter.com/rishy222
+https://github.com/twizzu
+https://www.youtube.com/channel/UCXZFyZK6GOYd1-bfuzfCAJg
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -31,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twizzu/Money/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Informations
 
 Ce système d'exploitation n'est pas administré ou reconnu par Microsoft.
 Vous n'êtes pas autorisé à revendre ou même à reprendre l'iso pour des raisons légales.
