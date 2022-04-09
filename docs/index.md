@@ -3,11 +3,11 @@
 Merci de vouloir utilisé notre OS personalisé. Notre OS a été totalement conçu pour le gaming.
 Il a été entièrement réalisé par Palm sur la base du système d'exploitation Windows.
 
-[Twitter].(https://twitter.com/rishy222)
+/https://twitter.com/rishy222/
 
-[Page GitHub].(https://github.com/PalmT)
+/https://github.com/PalmT/
 
-[Discord].(https://discord.com/invite/CxDt7b6Paz)
+/https://discord.com/invite/CxDt7b6Paz/
 
 ### Prérequis
 
@@ -22,8 +22,11 @@ Change the language if you wish
 ### Guide
 
 1.Lancez Rufus.
+
 2.Dans l'emplacement "Device" mettez votre clé USB
+
 3.Dans "Boot Selection" importez le fichier ISO
+
 4.Dans "Partition Scheme" choisissez entre GPT et MBR.
 
 ```markdown
