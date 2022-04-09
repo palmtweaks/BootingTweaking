@@ -1,8 +1,7 @@
-## Make Money ?
+## Introduction
 
-Bienvenue sur une Page pouvant vous permettre de faire de l'argent
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Merci de vouloir utilisé notre OS personalisé. Notre OS a été totalement conçu pour le gaming.
+Il a été entièrement réalisé par Palm sur la base du système d'exploitation Windows.
 
 ### Markdown
 
@@ -34,4 +33,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ce système d'exploitation n'est pas administré ou reconnu par Microsoft.
+Vous n'êtes pas autorisé à revendre ou même à reprendre l'iso pour des raisons légales.
