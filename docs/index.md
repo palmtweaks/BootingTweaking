@@ -25,10 +25,13 @@ Change the language if you wish
 ```
 ### Guide
 
-#1.Lancez Rufus.
-##2.Dans l'emplacement "Device" mettez votre clé USB
-###3.Dans "Boot Selection" importez le fichier ISO
-####4.Dans "Partition Scheme" choisissez entre GPT et MBR.
+1.Lancez Rufus.
+
+2.Dans l'emplacement "Device" mettez votre clé USB
+
+3.Dans "Boot Selection" importez le fichier ISO
+
+4.Dans "Partition Scheme" choisissez entre GPT et MBR.
 
 ```markdown
 Si vous ne savez pas quoi mettre en fonction de votre disque, voici un guide :
