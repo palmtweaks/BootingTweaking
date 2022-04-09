@@ -13,7 +13,8 @@ Il a été entièrement réalisé par Palm sur la base du système d'exploitatio
 
 USB Stick: 15GO 
 UEFI - BIOS
-[Rufus].(https://rufus.ie/fr/)
+Rufus - 64x
+/https://rufus.ie/fr//
 
 ```markdown
 Changez la langue si vous le souhaitez
