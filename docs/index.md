@@ -3,37 +3,36 @@
 Merci de vouloir utilisé notre OS personalisé. Notre OS a été totalement conçu pour le gaming.
 Il a été entièrement réalisé par Palm sur la base du système d'exploitation Windows.
 
-https://twitter.com/rishy222
-https://github.com/twizzu
-https://www.youtube.com/channel/UCXZFyZK6GOYd1-bfuzfCAJg
+[Twitter].(https://twitter.com/rishy222)
 
-### Markdown
+[Page GitHub].(https://github.com/PalmT)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Discord].(https://discord.com/invite/CxDt7b6Paz)
+
+### Prérequis
+
+USB Stick: 15GO 
+UEFI - BIOS
+[Rufus].(https://rufus.ie/fr/)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Changez la langue si vous le souhaitez
+Change the language if you wish
 ```
+### Guide
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1.Lancez Rufus.
+2.Dans l'emplacement "Device" mettez votre clé USB
+3.Dans "Boot Selection" importez le fichier ISO
+4.Dans "Partition Scheme" choisissez entre GPT et MBR.
 
-### Jekyll Themes
+```markdown
+Si vous ne savez pas quoi mettre en fonction de votre disque, voici un guide :
+[Français].(https://lecrabeinfo.net/differences-mbr-gpt-tables-de-partitionnement.html#:~:text=Le%20GPT%20fonctionne%20de%20pair,pas%20de%20code%20d'amor%C3%A7age.)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twizzu/Money/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you don't know what to put on depending on your disk, here is a guide:
+[English].(https://www.diskpart.com/windows-10/partition-scheme-and-target-system-type-rufus-window-10-0001.html)
+```
 
 ### Informations
 
