@@ -3,11 +3,9 @@
 Merci de vouloir utilisé notre OS personalisé. Notre OS a été totalement conçu pour le gaming.
 Il a été entièrement réalisé par Palm sur la base du système d'exploitation Windows.
 
-[Twitter](https://twitter.com/rishy222/)
-
-[GitHub](https://github.com/PalmT/)
-
-[Discord](https://discord.com/invite/CxDt7b6Paz/)
+ [Twitter](https://twitter.com/rishy222/)
+ [GitHub](https://github.com/PalmT/)
+ [Discord](https://discord.com/invite/CxDt7b6Paz/)
 
 ### Prérequis
 
@@ -15,7 +13,7 @@ Il a été entièrement réalisé par Palm sur la base du système d'exploitatio
 - UEFI - BIOS
 - Rufus - 64x
 
-https://rufus.ie/fr/
+[Download Rufus](https://rufus.ie/fr/)
 
 ```markdown
 Changez la langue si vous le souhaitez
@@ -35,6 +33,11 @@ Si vous ne savez pas quoi mettre en fonction de votre disque, voici un guide :
 If you don't know what to put on depending on your disk, here is a guide:
 (https://www.diskpart.com/windows-10/partition-scheme-and-target-system-type-rufus-window-10-0001.html)
 ```
+
+5. Allez dans le BIOS/UEFI et suivez le tutoriel :
+ [Tutoriel](https://youtu.be/ATJVWHfQsY8?t=808)
+
+6. Redémarrez le PC contenant la clé USB et procédez à l'installation
 
 ### Informations
 
