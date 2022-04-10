@@ -36,7 +36,6 @@ If you don't know what to put on depending on your disk, here is a guide:
 
 5. Allez dans le BIOS/UEFI et suivez le tutoriel :
  [Tutoriel](https://youtu.be/ATJVWHfQsY8?t=808)
-
 6. Redémarrez le PC contenant la clé USB et procédez à l'installation
 
 ### Informations
