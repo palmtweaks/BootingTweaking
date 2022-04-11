@@ -1,7 +1,7 @@
 ## Introduction
 
 Merci de vouloir utilisé notre OS personalisé. Notre OS a été totalement conçu pour le gaming.
-Il a été entièrement réalisé par Palm sur la base du système d'exploitation Windows.
+Il a été entièrement réalisé sur la base du système d'exploitation Windows.
 
  [Twitter](https://twitter.com/rishy222/)
  [GitHub](https://github.com/PalmT/)
@@ -28,10 +28,10 @@ Change the language if you wish
 
 ```markdown
 Si vous ne savez pas quoi mettre en fonction de votre disque, voici un guide :
-(https://lecrabeinfo.net/differences-mbr-gpt-tables-de-partitionnement.html#:~:text=Le%20GPT%20fonctionne%20de%20pair,pas%20de%20code%20d'amor%C3%A7age.)
+[FR](https://lecrabeinfo.net/differences-mbr-gpt-tables-de-partitionnement.html#:~:text=Le%20GPT%20fonctionne%20de%20pair,pas%20de%20code%20d'amor%C3%A7age.)
 
 If you don't know what to put on depending on your disk, here is a guide:
-(https://www.diskpart.com/windows-10/partition-scheme-and-target-system-type-rufus-window-10-0001.html)
+[Eng](https://www.diskpart.com/windows-10/partition-scheme-and-target-system-type-rufus-window-10-0001.html)
 ```
 
 5. Allez dans le BIOS/UEFI et suivez le tutoriel :
