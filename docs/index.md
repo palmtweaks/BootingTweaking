@@ -42,3 +42,5 @@ If you don't know what to put on depending on your disk, here is a guide:
 
 Ce système d'exploitation n'est pas administré ou reconnu par Microsoft.
 Vous n'êtes pas autorisé à revendre ou même à reprendre l'iso pour des raisons légales.
+
+[Image](http://image.noelshack.com/fichiers/2022/15/1/1649702589-info.png)
