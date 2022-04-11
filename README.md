@@ -28,6 +28,8 @@ Change the language if you wish
 3. Dans "Boot Selection" importez le fichier ISO
 4. Dans "Partition Scheme" choisissez entre GPT et MBR.
 
+![Image](http://image.noelshack.com/fichiers/2022/15/1/1649704851-capture.png)
+
  Si vous ne savez pas quoi mettre en fonction de votre disque, voici un guide :
  [FR](https://lecrabeinfo.net/differences-mbr-gpt-tables-de-partitionnement.html#:~:text=Le%20GPT%20fonctionne%20de%20pair,pas%20de%20code%20d'amor%C3%A7age.)
 
