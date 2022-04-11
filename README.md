@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/twizzu/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Merci de vouloir utilisé notre OS personalisé. Notre OS a été totalement conçu pour le gaming.
+Il a été entièrement réalisé sur la base du système d'exploitation Windows.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [Twitter](https://twitter.com/rishy222/)
+ [GitHub](https://github.com/PalmT/)
+ [Discord](https://discord.com/invite/CxDt7b6Paz/)
 
-### Markdown
+### Prérequis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- USB Stick: 15GO 
+- UEFI - BIOS
+- Rufus - 64x
+
+[Download Rufus](https://rufus.ie/fr/)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Changez la langue si vous le souhaitez
+Change the language if you wish
 ```
+### Guide
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Lancez Rufus.
+2. Dans l'emplacement "Device" mettez votre clé USB
+3. Dans "Boot Selection" importez le fichier ISO
+4. Dans "Partition Scheme" choisissez entre GPT et MBR.
 
-### Jekyll Themes
+ Si vous ne savez pas quoi mettre en fonction de votre disque, voici un guide :
+ [FR](https://lecrabeinfo.net/differences-mbr-gpt-tables-de-partitionnement.html#:~:text=Le%20GPT%20fonctionne%20de%20pair,pas%20de%20code%20d'amor%C3%A7age.)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twizzu/Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ If you don't know what to put on depending on your disk, here is a guide:
+ [Eng](https://www.diskpart.com/windows-10/partition-scheme-and-target-system-type-rufus-window-10-0001.html)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+5. Allez dans le BIOS/UEFI et suivez le tutoriel :
+ [Tutoriel](https://youtu.be/ATJVWHfQsY8?t=808)
+6. Redémarrez le PC contenant la clé USB et procédez à l'installation
+
+### Informations
+
+Ce système d'exploitation n'est pas administré ou reconnu par Microsoft.
+Vous n'êtes pas autorisé à revendre ou même à reprendre l'iso pour des raisons légales.
+
+[Image](http://image.noelshack.com/fichiers/2022/15/1/1649702589-info.png)
