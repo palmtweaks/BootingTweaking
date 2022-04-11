@@ -1,3 +1,5 @@
+![Image](https://i.ibb.co/F3dLFP4/Logoo.png)
+
 ## Introduction
 
 Merci de vouloir utilisé notre OS personalisé. Notre OS a été totalement conçu pour le gaming.
@@ -42,4 +44,4 @@ Change the language if you wish
 Ce système d'exploitation n'est pas administré ou reconnu par Microsoft.
 Vous n'êtes pas autorisé à revendre ou même à reprendre l'iso pour des raisons légales.
 
-![Image](http://image.noelshack.com/fichiers/2022/15/1/1649702589-info.png)
+![Image](http://image.noelshack.com/fichiers/2022/15/1/1649704706-lllll.png)
