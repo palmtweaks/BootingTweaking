@@ -26,13 +26,12 @@ Change the language if you wish
 3. Dans "Boot Selection" importez le fichier ISO
 4. Dans "Partition Scheme" choisissez entre GPT et MBR.
 
-```markdown
-Si vous ne savez pas quoi mettre en fonction de votre disque, voici un guide :
-[FR](https://lecrabeinfo.net/differences-mbr-gpt-tables-de-partitionnement.html#:~:text=Le%20GPT%20fonctionne%20de%20pair,pas%20de%20code%20d'amor%C3%A7age.)
+ Si vous ne savez pas quoi mettre en fonction de votre disque, voici un guide :
+ [FR](https://lecrabeinfo.net/differences-mbr-gpt-tables-de-partitionnement.html#:~:text=Le%20GPT%20fonctionne%20de%20pair,pas%20de%20code%20d'amor%C3%A7age.)
 
-If you don't know what to put on depending on your disk, here is a guide:
-[Eng](https://www.diskpart.com/windows-10/partition-scheme-and-target-system-type-rufus-window-10-0001.html)
-```
+ If you don't know what to put on depending on your disk, here is a guide:
+ [Eng](https://www.diskpart.com/windows-10/partition-scheme-and-target-system-type-rufus-window-10-0001.html)
+
 
 5. Allez dans le BIOS/UEFI et suivez le tutoriel :
  [Tutoriel](https://youtu.be/ATJVWHfQsY8?t=808)
